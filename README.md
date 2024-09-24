@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fhinerg or @Jhony Henrique
+- 👋 Hi, I’m @Fhinerg or Jhony Henrique
   
 - 👀 I’m interested in...
 - Judo
