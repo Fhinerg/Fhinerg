@@ -2,16 +2,18 @@
 
 - 👀 I’m interested in...
 - Judo
-- Games
-- Peogramming
+- Increasing the quality of my CV
+- Programming
 
 - 🌱 I’m currently learning ...
 - Programming Logic
 - JavaScript
 - React Node JS
 
-- 💞️ I’m Aiming ...
+- 💞️ I’m looking to collaborate on ...
 - Collaborate on Muntiple Projects
+- Technological Advances
+- 
 
 - 📫 How to reach me ...
 - Whatsapp
@@ -22,7 +24,8 @@
 - Her/him
 
 - ⚡ Fun fact: ...
-- 
+- I'm yellow belt in Judo
+- I like any kind of sport
 
 <!---
 Fhinerg/Fhinerg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
